@@ -1,0 +1,5 @@
+.env
+/mydb.sqlite3
+.DS_Store
+/appstore-rank-checker.code-workspace
+/node_modules
