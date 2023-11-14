@@ -26,5 +26,10 @@ Enter:
 + App Country ISO Code (e.g. 'us')
 + keywords, separated by a comma 
 
+
+## Disclaimer
+
+The AppStore Rank Checker is provided "as is" without warranty of any kind, express or implied. While every effort has been made to ensure the software is error-free and reliable, the developers cannot guarantee that it is free from defects or bugs. Users are advised to use the software at their own risk. The developers will not be liable for any damages, whether direct, indirect, incidental, or consequential, arising from the use of or inability to use this software.
+
 ## Contact
-[x.com/sometimesfunny]x.com/sometimesfunny
+[x.com/sometimesfunny](https://x.com/sometimesfunny)
